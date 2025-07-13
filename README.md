@@ -5,8 +5,8 @@ We introduce REaMA, a series of open-source LLMs with sizes of 7B and 13B specif
 
 
 # Dataset
-- The pre-processed training dataset can be downloaded at ./sft/training_data/merge_all_train.jsonl
-- The test dataset can be downloaded at ./data/test
+- The pre-processed training dataset can be downloaded at https://github.com/SCUZPP/REaMA/blob/main/data.zip
+- The test dataset can be downloaded at https://github.com/SCUZPP/REaMA/blob/main/data.zip
 
 # Requirements
 - transformers>=4.31.0 
