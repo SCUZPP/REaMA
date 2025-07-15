@@ -5,8 +5,8 @@ We introduce REaMA, a series of open-source LLMs with sizes of 7B and 13B specif
 
 
 # Dataset
-- The pre-processed training dataset can be downloaded at https://github.com/SCUZPP/REaMA/blob/main/data.zip
-- The test dataset can be downloaded at https://github.com/SCUZPP/REaMA/blob/main/data.zip
+- The pre-processed training dataset can be downloaded at https://github.com/stzpp/REaMA/blob/main/data.zip
+- The test dataset can be downloaded at https://github.com/stzpp/REaMA/blob/main/data.zip
 
 # REaMA
 - The fine-tuned REaMA 7B can be downloaded at git clone https://oauth2:qFCrieNkRxqEaNtsWWpN@www.modelscope.cn/zppqiwen/REaMA-7B.git
